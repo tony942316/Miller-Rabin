@@ -2,6 +2,9 @@
 
 #include <bitset>
 
+// This is where the idea for the 128 bit Integer was born
+// This is not relevent to the Miller-Rabin test work for this has moved to tLib
+
 class BigInt
 {
 public:

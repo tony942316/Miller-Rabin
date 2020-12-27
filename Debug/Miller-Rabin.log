@@ -1,3 +1,6 @@
-﻿  Main.cpp
-C:\C++ Projects(Personal)\Miller-Rabin\Miller-Rabin\Main.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
-  Miller-Rabin.vcxproj -> C:\C++ Projects(Personal)\Miller-Rabin\Debug\Miller-Rabin.exe
+﻿  BigInt.cpp
+C:\C++ Projects(GIT)\Miller-Rabin\Miller-Rabin\BigInt.cpp(22,24): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+C:\C++ Projects(GIT)\Miller-Rabin\Miller-Rabin\Main.cpp(29,20): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Miller-Rabin.vcxproj -> C:\C++ Projects(GIT)\Miller-Rabin\Debug\Miller-Rabin.exe
